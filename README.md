@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A passionate ethical hacker and pentester from India</h3>
 
-- 🌱 I’m currently learning **ML.DL.AI**
+- 🌱 I’m currently learning **ML.DL.AI and MSc Physics**
 
 - 💬 Ask me about **CyberSecurity and Ethical Hacking**
 
