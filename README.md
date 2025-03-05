@@ -1,3 +1,5 @@
+👋 Hi, I'm Atharva!
+
 🔹 Cybersecurity Enthusiast | Ethical Hacker | Digital Forensics Learner
 🔹 Passionate about penetration testing, reverse engineering, and IoT security
 🔹 Experienced with Linux, CTFs, and ethical hacking tools
@@ -11,4 +13,4 @@
 ✅ Fundamentals in Cybersecurity - Cisco
 
 🚀 Let's connect & collaborate!
-🔗 [Your LinkedIn] | 🌐 [Your Blog/Portfolio (if any)]
+🔗 www.linkedin.com/in/atharvasonar 
