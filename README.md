@@ -1,16 +1,39 @@
-👋 Hi, I'm Atharva!
+# Hi, I'm Hipster2110! 👋
 
-🔹 Cybersecurity Enthusiast | Ethical Hacker | Digital Forensics Learner
-🔹 Passionate about penetration testing, reverse engineering, and IoT security
-🔹 Experienced with Linux, CTFs, and ethical hacking tools
-🔹 Currently learning Frida for reverse engineering & digital forensics
-🔹 Building a Web-Based IoT Security Scanner (Flask Dashboard)
+## 🚀 About Me
+I'm a passionate cybersecurity enthusiast specializing in ethical hacking, IoT security, and digital forensics. I love exploring vulnerabilities, developing security tools, and contributing to open-source projects.
 
-💻 Tech Stack: Kali Linux | Python | Flask | Bash | Git | Wireshark | Burp Suite | Metasploit | Reverse Engineering
+## 🔐 Certifications
+- **Cisco** - Fundamentals in Cybersecurity
+- **Cisco & ZSecurity** - Ethical Hacking Course
+- **More to Come!** 🚀
 
-📌 Certifications:
-✅ Ethical Hacking - Cisco & ZSecurity
-✅ Fundamentals in Cybersecurity - Cisco
+## 🔥 Interests & Skills
+- **Cybersecurity & Ethical Hacking**
+- **IoT Security & Intrusion Detection**
+- **Reverse Engineering & Digital Forensics**
+- **Web & Network Penetration Testing**
+- **Python, Flask, and AI-based Security Solutions**
 
-🚀 Let's connect & collaborate!
-🔗 www.linkedin.com/in/atharvasonar 
+## 🛠️ Projects
+Here are some of my top security-focused projects:
+
+### 🔹 [AI-Powered Intrusion Detection System](https://github.com/Hipster2110/AI-PoweredIntrusionDetectionSystem-IDS-forIoTSecurity)
+An AI-driven Intrusion Detection System (IDS) for IoT security that detects anomalies and potential threats using machine learning.
+
+### 🔹 [IoT Security Dashboard](https://github.com/Hipster2110/iot_security_dashboard)
+A Flask-based web dashboard for scanning and assessing IoT devices for vulnerabilities and security risks.
+
+### 🔹 [Secure IoT Network Scanner](https://github.com/Hipster2110/Scan-SecureIoTDevicesNetwork)
+A Python-based tool to scan networks, detect IoT devices, and evaluate their security risks with AI-based scoring.
+
+## 📫 Connect with Me
+- **GitHub**: [Hipster2110](https://github.com/Hipster2110)
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **Twitter**: [@YourHandle](#)
+- **Email**: your.email@example.com
+
+## ⚡ Fun Fact
+"Security isn't just about defense; it's about understanding how things break!" 🔓
+
+
