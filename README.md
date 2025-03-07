@@ -29,9 +29,8 @@ A Python-based tool to scan networks, detect IoT devices, and evaluate their sec
 
 ## 📫 Connect with Me
 - **GitHub**: [Hipster2110](https://github.com/Hipster2110)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [@YourHandle](#)
-- **Email**: your.email@example.com
+- **LinkedIn**: www.linkedin.com/in/atharvasonar(#)
+- **Email**: atharvaso109@gmail.com
 
 ## ⚡ Fun Fact
 "Security isn't just about defense; it's about understanding how things break!" 🔓
