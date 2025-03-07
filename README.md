@@ -27,9 +27,13 @@ A Flask-based web dashboard for scanning and assessing IoT devices for vulnerabi
 ### 🔹 [Secure IoT Network Scanner](https://github.com/Hipster2110/Scan-SecureIoTDevicesNetwork)
 A Python-based tool to scan networks, detect IoT devices, and evaluate their security risks with AI-based scoring.
 
-## 📫 Connect with Me
+## 💌 Connect with Me
+
 - **GitHub**: [Hipster2110](https://github.com/Hipster2110)
-- **LinkedIn**: [atharvasonar]([www.linkedin.com/in/atharvasonar)
+- **LinkedIn**: [Atharva Sonar](https://www.linkedin.com/in/atharvasonar)
+- **Twitter**: [Your Twitter Handle](#)
+
+Let's connect and collaborate! 🚀
 
 ## ⚡ Fun Fact
 "Security isn't just about defense; it's about understanding how things break!" 🔓
