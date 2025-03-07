@@ -31,7 +31,6 @@ A Python-based tool to scan networks, detect IoT devices, and evaluate their sec
 
 - **GitHub**: [Hipster2110](https://github.com/Hipster2110)
 - **LinkedIn**: [Atharva Sonar](https://www.linkedin.com/in/atharvasonar)
-- **Twitter**: [Your Twitter Handle](#)
 
 Let's connect and collaborate! 🚀
 
